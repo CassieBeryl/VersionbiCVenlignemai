@@ -1,0 +1,90 @@
+body {
+  margin:0;
+  padding:0;
+  background-color:black;
+  background-image: url("images/spacemax.jpg");
+  background-repeat: no-repeat;
+  color:yellow;
+  width:100%;
+  margin-left:50px;
+  margin-right:50px;
+  font-family:Verdana;
+  font-size:18px;
+  text-align:justify;
+}
+
+section {
+min-height: 150vh;
+width:100%;
+margin-top:50px;
+margin-bottom:50px;
+padding-top:20px;
+padding-bottom: 20px;
+background-color:;
+}
+
+#section1 {
+  background-image: url("images/earthmax.jpg");
+  width:100%;
+}
+
+#section3 {
+  background-image: url("images/Voyagermax.jpg");
+  width:100%;
+}
+
+.nom {
+  background-color:;
+  padding-top:50px;
+}
+
+article {
+margin-top:20px;
+margin-bottom:20px;
+padding-top:20px;
+padding-bottom: 20px;
+text-align:center;
+}
+
+h1 {
+  text-align:center;
+}
+
+nav {
+height:100px;
+margin-top:0;
+margin-bottom:100px;
+padding-bottom:30px;
+}
+
+nav ul {
+  list-style:none;
+  float:right;
+}
+
+nav li {
+  display:inline;
+  padding-right:50px;
+
+}
+
+.text {
+  text-align:center;
+}
+
+a {
+  text-align:right;
+  color:yellow;
+}
+
+header {
+min-height:200vh;
+padding-bottom:100px;
+background-color:;
+}
+
+footer {
+  padding-bottom: 30px;
+  height:10vh;
+  text-align:center;
+}
